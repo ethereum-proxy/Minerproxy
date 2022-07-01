@@ -7,7 +7,7 @@
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/Release-V2.1.0-orgin.svg" alt="travis">
+    <img src="https://img.shields.io/badge/Release-V1.0.0-orgin.svg" alt="travis">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Last_Update-2022_07_01-orgin.svg" alt="travis">
@@ -89,7 +89,7 @@ screen -r Ethereum_proxy
 ## :gear:  版本更新日志
 ```shell
                    
-2022/07/01 v2.1.0  - 新增WEB暗黑模式。
+2022/07/01 v1.0.0  - 新增WEB暗黑模式。
                    - 纯转发不抽水，无开发费。
                    - 端口运行状态时可修改抽水用户。
                    - 支持本地加密客户端 MinerSec。
