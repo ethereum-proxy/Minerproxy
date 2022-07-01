@@ -109,4 +109,4 @@ screen -r Ethereum_proxy
 
 - 电报组: [Minerproxy 交流](https://t.me/Minerproxy)
 ## :scroll: 开发抽水
-* 恒定 0.3%
+* 纯转发模式开发者不抽水，开启抽水模式则 0.3%
