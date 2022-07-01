@@ -7,10 +7,10 @@
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/Release-V2.0.0-orgin.svg" alt="travis">
+    <img src="https://img.shields.io/badge/Release-V2.1.0-orgin.svg" alt="travis">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Last_Update-2022_06_30-orgin.svg" alt="travis">
+    <img src="https://img.shields.io/badge/Last_Update-2022_07_01-orgin.svg" alt="travis">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Language-GoLang-green.svg" alt="travis">
@@ -91,13 +91,12 @@ screen -r Ethereum_proxy
 ## :gear:  版本更新日志
 ```shell
                    
-2022/06/30 v2.0.0  - 新增暗黑模式。
+2022/07/01 v2.1.0  - 新增WEB暗黑模式。
                    - 纯转发不抽水，无开发费。
                    - 端口运行状态时可修改抽水用户。
                    - 支持本地加密客户端 MinerSec。
                    - 每端口最多可添加5个抽水账户。
                    - 提升稳定性，修复已知问题。
-                   - 修复bug，提升稳定性。
                    - 提升专业芯片机连接稳定性。
                    - 修复web控制台页面显示问题/提升矿机连接稳定性。
                    - 修复bug，提升内存使用效率。
