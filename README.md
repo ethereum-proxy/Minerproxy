@@ -26,7 +26,6 @@
   <a href="https://t.me/ethereumproxy">Telegram 通知频道</a>
 </p>
 
-![Screenshot](https://github.com/ethereum-proxy/Minerproxy/blob/main/web.png)
 
 ## :sparkles: 特性
 
@@ -45,7 +44,8 @@
 * :gear: 专业团队：拥有丰富区块链开发的工作经验，多名开发人员来自香港科技大学名校
 * :link: 快速响应：可选择开启，伪装低延迟(用户内核延迟处显示的延迟为矿机到中转服务器的延迟)、清理无效提交
 * 🌈 ... ...
-
+![Screenshot](https://github.com/ethereum-proxy/Minerproxy/blob/main/web.png)
+![Screenshot](https://github.com/ethereum-proxy/Minerproxy/blob/main/web1.png)
 ## :hammer_and_wrench: 部署
 
 最新软件版本请见：<a href="https://github.com/ethereum-proxy/EthereumProxy/releases">Github Release</a></br>
