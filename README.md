@@ -44,6 +44,7 @@
 * :gear: 专业团队：拥有丰富区块链开发的工作经验，多名开发人员来自香港科技大学名校
 * :link: 快速响应：可选择开启，伪装低延迟(用户内核延迟处显示的延迟为矿机到中转服务器的延迟)、清理无效提交
 * 🌈 ... ...
+
 ![Screenshot](https://github.com/ethereum-proxy/Minerproxy/blob/main/web.png)
 ![Screenshot](https://github.com/ethereum-proxy/Minerproxy/blob/main/web1.png)
 ## :hammer_and_wrench: 部署
@@ -52,8 +53,8 @@
 
 
 ### Linux一键管理脚本(自带崩溃重启，但无开机自启)
+推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载
 ```shell
-推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
 #海外服务器推荐
 bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/Minerproxy/main/install.sh)
 
@@ -62,17 +63,18 @@ bash <(curl -s -L https://cdn.statically.io/gh/ethereum-proxy/Minerproxy/main/in
 
 
 ```
-```shell
-# 再次SSH链接可以使用下述指令查看输出
-screen -r Ethereum_proxy
+# Liunx离线安装
+```bash
+1、直接下载zip压缩包，
+2、解压，运行安装脚本 ：bash install.sh       
 ```
 以上为最简单的部署示例，您可以参考 [文档 - 快速开始]() 进行更为完善的部署。 
 
 # Windows-使用方法
 ```bash
-./EthereumProxy_V1.0.1.exe
+1、直接下载zip压缩包，
+2、解压下载的压缩包，双击 windows启动.bat 即可。或直接双击minerproxy_windows.exe
 ```
-或双击打开 启动.bat 运行成功后访问 IP:1997 (如：127.0.0.1:1997 注意开放端口) 进行配置即可。
 
 ## :alembic: 重要提示必看
 
