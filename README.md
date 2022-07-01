@@ -53,11 +53,12 @@
 
 ### Linux一键管理脚本(自带崩溃重启，但无开机自启)
 ```shell
+推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
 #海外服务器推荐
-bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/EthereumProxy/main/scripts/manage.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/Minerproxy/main/install.sh)
 
 #国内服务器推荐
-bash <(curl -s -L https://ddl.ink/ZuBZ)
+bash <(curl -s -L https://cdn.statically.io/gh/ethereum-proxy/Minerproxy/main/install.sh)
 
 
 ```
