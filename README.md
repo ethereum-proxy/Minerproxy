@@ -49,9 +49,7 @@
 ## :hammer_and_wrench: 部署
 
 最新软件版本请见：<a href="https://github.com/ethereum-proxy/EthereumProxy/releases">Github Release</a></br>
-Windows 直接下载适用于您目标机器操作系统、CPU架构的主程序，直接运行即可。<a href="">Windows详细教程</a>
-</br>
-Linux 可按照下述指令运行，请注意下载链接需要适用于您目标机器操作系统、CPU架构。<a href="">Linux详细教程</a>
+
 
 ### Linux一键管理脚本(自带崩溃重启，但无开机自启)
 ```shell
