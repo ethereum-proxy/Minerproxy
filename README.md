@@ -103,6 +103,15 @@ bash <(curl -s -L https://cdn.statically.io/gh/ethereum-proxy/Minerproxy/main/in
                    - 修复bug，提升内存使用效率。
                    - 优化抽水逻辑，提高逻辑切换性能。
 ```
+# · letminer独立使用方式
+```bash
+【矿机】 ---SSL/TCP连接--->【letminer本地端口】 ---SSL/TCP连接--->【矿池】
+```
+或者 搭配 letsec 使用
+<a style="color:red" href="https://github.com/letminer/letsec"> 什么是 letsec ？</a>
+```bash
+【矿机】 ---SSL/TCP连接---> 【letsec本地端口】 ---> 【letminer本地端口】 ---SSL/TCP连接--->【矿池】
+```
 
 ## :family_woman_girl_boy: 联系我们
 
