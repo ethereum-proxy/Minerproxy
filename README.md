@@ -12,7 +12,7 @@
 <h4 align="center">更多功能，持续更新！！！</h4>
 <h4 align="center"><a style="color:red" href="https://github.com/ethereum-proxy/Letminer">本地加密客户端 letsec 现已上线 >></a></h4>
 
-# · minerproxy使用方式
+# · Minerproxy使用方式
 独立使用
 ```bash
 【矿机】 ---SSL/TCP连接--->【minerproxy本地端口】 ---SSL/TCP连接--->【矿池】
