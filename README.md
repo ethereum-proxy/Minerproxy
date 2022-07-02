@@ -10,7 +10,7 @@
 </h4>
 最稳定的ETH以太坊代理中转程序，minerproxy代理，支持TCP和SSL协议，支持自有加密客户端LetSec协议，支持专业芯片机与显卡机，内置商业SSL证书，自定义抽水，web界面管理支持手机端，自启动守护进程，开机自动运行，防火墙和连接数限制一键搞定。高效稳定，无视CC，无视DDOS，不怕攻击。
 <h4 align="center">更多功能，持续更新！！！</h4>
-<h4 align="center"><a style="color:red" href="https://github.com/ethereum-proxy/letsec">本地加密客户端 letsec 现已上线 >></a></h4>
+<h4 align="center"><a style="color:red" href="https://github.com/ethereum-proxy/Letminer">本地加密客户端 letsec 现已上线 >></a></h4>
 
 # · minerproxy使用方式
 独立使用
@@ -18,7 +18,7 @@
 【矿机】 ---SSL/TCP连接--->【minerproxy本地端口】 ---SSL/TCP连接--->【矿池】
 ```
 或者 搭配 letsec 使用
-<a style="color:red" href="https://github.com/ethereum-proxy/letsec"> 什么是 letsec ？</a>
+<a style="color:red" href="https://github.com/ethereum-proxy/Letminer"> 什么是 Letsec ？</a>
 ```bash
 【矿机】 ---SSL/TCP连接---> 【letsec本地端口】 ---> 【minerproxy本地端口】 ---SSL/TCP连接--->【矿池】
 ```
@@ -55,12 +55,12 @@
 
 # ·  版本日志
 ```bash
-2022/05/14 v1.0.0  MinerProxy发布第一个版本！
+2022/07/01 v1.0.0  MinerProxy发布第一个版本！
 ```
 
 # · 联系我们
 ```bash
-1、Telegram技术交流群：https://t.me/minerproxys
+1、Telegram技术交流群：https://t.me/minerproxy
 2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
 ```    
 
