@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/ethereum-proxy/Minerproxy/logo.png" width="400"/>
+  <img src="https://github.com/ethereum-proxy/Minerproxy/blob/main/logo.png" width="500"/>
 </h1>
 
 <h4 align="center">全新以太坊代理，支持 芯片机 / 显卡机，支持 ETH / ETC 抽水，协议完美适配。
