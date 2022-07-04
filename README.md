@@ -61,7 +61,7 @@
 
 # · 联系我们
 ```bash
-1、Telegram技术交流群：https://t.me/minerproxy
+1、Telegram技术交流群：https://t.me/Minerproxy666
 2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
 ```    
 
